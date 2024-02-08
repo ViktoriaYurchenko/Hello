@@ -1,0 +1,51 @@
+.bi-camera2{
+    font-size: 40px;
+    color: #0dcaf0;
+}
+.paragraph-border{
+    border-top: white solid 2px;
+    
+}
+.pic-photographer{
+    width: 400px;
+    height: 600px;
+}
+.intro{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+.working-process{
+    font-family: 'Times New Roman', Times, serif;
+font-weight: bolder;
+}
+.colheight{
+    height: 250px ;
+    width: 250px;
+    margin: 10px;
+}
+.bi-award-fill, .bi-balloon-fill, .bi-bicycle, .bi-boombox-fill{
+    font-size: 60px;
+    color: rgb(24, 10, 10);
+
+}
+
+.block {
+    margin: 15px; 
+    padding: 20px;
+  }
+  .b-quote{
+    background-color: #343a40;
+height: 500px;
+   padding-top: 70px;
+   padding-left: 90px;
+   color: aliceblue;
+  }
+  .bi-quote{
+    font-size: 50px;
+  }
+  /* .contact-info{
+    border: 1px solid gray;
+
+  } */
+  
